@@ -1,3 +1,3 @@
-# itf+
+# Tech+
 
-IT Fundamentals の授業の補助資料
+Computer Fundamentals の授業の補助資料
